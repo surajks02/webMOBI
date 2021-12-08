@@ -16,10 +16,6 @@
 	left: 0;
 	background: rgba(0,0,0,0.4);
 }
-.navbar .logo{
-	width: 140px;
-	height: auto;
-	padding: 20px 100px;
 }
 .navbar ul{
 	float: right;
@@ -71,8 +67,8 @@
 	margin: 35px 280px;
 }
 .buttons button{
-	height: 50px;
-	width: 180px;
+	height: 45px;
+	width: 190px;
 	font-size: 18px;
 	font-weight: 600;
 	color: #ffb3b3;
