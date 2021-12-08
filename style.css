@@ -72,7 +72,7 @@
 }
 .buttons button{
 	height: 50px;
-	width: 150px;
+	width: 170px;
 	font-size: 18px;
 	font-weight: 600;
 	color: #ffb3b3;
@@ -83,8 +83,6 @@
 	border-radius: 25px;
 	transition: .4s;
 }
-.buttons .btn2{
-	margin-left: 25px;
 }
 .buttons button:hover{
 	background: #cc0000;
